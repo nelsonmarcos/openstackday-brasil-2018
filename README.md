@@ -21,7 +21,7 @@ https://nginx.org/en/docs/
 https://docs.google.com/document/d/1Zr7ecWTWQu7v5EaCHRPhxnD_M47csfbQpXk2db9QmM4/edit?usp=sharing
 
 ## Slides
-https://docs.google.com/document/d/1Zr7ecWTWQu7v5EaCHRPhxnD_M47csfbQpXk2db9QmM4/edit?usp=sharing
+https://www.dropbox.com/s/fj0lwte1d0x6yiv/nelsonmarcos-openstackday-2018.pdf?dl=0
 
 ## Ferramentas de gestão
 |Ferramenta|URL|
