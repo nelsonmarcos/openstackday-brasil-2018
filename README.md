@@ -16,6 +16,9 @@ https://docs.openstack.org/swift/latest/development_saio.html
 
 https://nginx.org/en/docs/
 
+## Quer trabalhar na Globo.com?
+https://talentos.globo.com
+
 ## Texto da apresentação
 
 https://docs.google.com/document/d/1Zr7ecWTWQu7v5EaCHRPhxnD_M47csfbQpXk2db9QmM4/edit?usp=sharing
